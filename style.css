@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(122, 119, 115);
+}
+h1{
+    font-size: 28px;
+    color: black;
+    font-family: sans-serif;
+}
+.recipe-image{
+    width: 100%;
+    border-radius: 8px;
+}
